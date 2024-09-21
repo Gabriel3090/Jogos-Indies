@@ -1,8 +1,11 @@
 body {
+    background-color: black;
+    color: #fff;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
+
 
 img {
     width: 100%;
@@ -10,9 +13,9 @@ img {
 }
 
 header {
-    background-color: #1ae421;
+    background-color: #006400;
     color: white;
-    padding: 15px;
+    padding: 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -64,7 +67,7 @@ section {
 .projeto {
     border: 1px solid #ccc;
     padding: 10px;
-    text-align: center;
+    text-align:justify;
 }
 
 .video-container {
