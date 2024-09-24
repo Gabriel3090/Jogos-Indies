@@ -13,7 +13,7 @@ img {
 }
 
 header {
-    background-color: #006400;
+    background-color: #551A8B;
     color: white;
     padding: 10px;
     display: flex;
@@ -83,7 +83,7 @@ section {
 }
 
 footer {
-    background-color: #708090;
+    background-color: #98F5FF;
     color: white;
     text-align: center;
     padding: 10px;
