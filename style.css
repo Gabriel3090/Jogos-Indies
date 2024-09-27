@@ -50,6 +50,7 @@ section {
 }
 
 .perfil {
+    
     width: 150px;
     border-radius: 50%;
 }
@@ -84,7 +85,7 @@ section {
 
 footer {
     background-color: #98F5FF;
-    color: white;
+    color: rgb(7, 7, 7);
     text-align: center;
     padding: 10px;
 }
